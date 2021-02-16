@@ -21,3 +21,8 @@ Project for the first module of the Data Mining course held at University of Pis
     Then solve the classification task using the Decision Tree or the KNN by adopting various 
     techniques of imbalanced learning;
     5. Draw your conclusions about the techniques adopted in this analysis.
+    
+    N.B. When “solving the classification task”, remember, (i) to test, when needed, different criteria
+    for the parameter estimation of the algorithms, and (ii) to evaluate the classifiers 
+    (e.g., Accuracy, F1, Lift Chart) in order to compare the results obtained with an imbalanced technique 
+    against those obtained from using the “original” dataset.
