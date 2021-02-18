@@ -5,7 +5,7 @@ Project for the second module of the Data Mining course held at University of Pi
 # Module 1 - Introduction, Imbalanced Learning and Anomaly Detection
     1. Explore and prepare the dataset. You are allowed to take inspiration from the associated GitHub 
     repository:
-                                         https://github.com/mdeff/fma
+     https://github.com/mdeff/fma
      and figure out your personal research perspective   
     (from choosing a subset of variables to the class to predict…). 
     You are welcome in creating new variables and performing all the pre-processing steps the dataset 
