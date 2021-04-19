@@ -51,7 +51,7 @@ for the parameter estimation of the algorithms, and (ii) to evaluate the classif
 against those obtained from using the “original” dataset.
 
 # Module 3 -  Time Series Analysis
-q. Select the feature(s) you prefer and use it (them) as a time series. You can use the temporal 
+1. Select the feature(s) you prefer and use it (them) as a time series. You can use the temporal 
 information provided by the authors’ datasets, but you are also welcome in exploring the .mp3
 files to build your own dataset of time series according to your purposes. You should prepare
 a dataset on which you can run time series **clustering**; **motif/anomaly discovery** and 
