@@ -57,9 +57,9 @@ against those obtained from using the “original” dataset.
     a dataset on which you can run time series **clustering**; **motif/anomaly discovery** and 
     **classification**;
     2. On the dataset created, compute clustering based on Euclidean/Manhattan and DTW distances 
-    and compare the results. To perform the clustering you can choose among different distance functions 
-    and clustering algorithms. Remember that you can reduce the dimensionality through approximation.
-    Analyze the clusters and highlight similarities and differences.
+    and compare the results. To perform the clustering you can choose among different distance 
+    functions and clustering algorithms. Remember that you can reduce the dimensionality 
+    through approximation. Analyze the clusters and highlight similarities and differences.
     3. Analyze the dataset for finding motifs and/or anomalies. Visualize and discuss them and their
     relationship with other features.
     4. Solve the classification task on the time series dataset(s) and evaluate each result. 
