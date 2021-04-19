@@ -54,8 +54,8 @@ against those obtained from using the “original” dataset.
     1. Select the feature(s) you prefer and use it (them) as a time series. You can use the temporal 
     information provided by the authors’ datasets, but you are also welcome in exploring the .mp3
     files to build your own dataset of time series according to your purposes. You should prepare
-    a dataset on which you can run time series **clustering**; **motif/anomaly discovery** and 
-    **classification**;
+    a dataset on which you can run time series clustering; motif/anomaly discovery and 
+    classification;
     2. On the dataset created, compute clustering based on Euclidean/Manhattan and DTW distances 
     and compare the results. To perform the clustering you can choose among different distance 
     functions and clustering algorithms. Remember that you can reduce the dimensionality 
