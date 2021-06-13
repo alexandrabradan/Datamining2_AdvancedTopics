@@ -70,15 +70,16 @@ against those obtained from using the “original” dataset.
     1. Sequential Pattern Mining: Convert the time series into a discrete format (e.g., by using SAX)
     and extract the most frequent sequential patterns (of at   least length 3/4) using different 
     values of support, then discuss the most interesting sequences.
-    2. Advanced Clustering: On a dataset already prepared for one of the previous tasks in Module 1
-    or Module 2, run at least one clustering algorithm presented in the advanced clustering lectures
-    (e.g. X-Means, Bisecting K-Means, OPTICS). Discuss the results that you find analyzing the clusters
-    and reporting external validation measures (e.g SSE, silhouette).
-    3. Transactional Clustering: By using categorical features, or by turning a dataset with continuous
-    variables into a dataset with categorical variables (e.g. by using binning), run at least one 
-    clustering algorithm presented in the transactional clustering lectures (e.g. K-Modes, ROCK). 
-    Discuss the results that you find analyzing the clusters and reporting external validation measures 
+    2. Advanced Clustering: On a dataset already prepared for one of the previous tasks in
+    Module 1 or Module 2, run at least one clustering algorithm presented in the advanced
+    clustering lectures (e.g. X-Means, Bisecting K-Means, OPTICS). Discuss the results 
+    that you find analyzing the clusters and reporting external validation measures 
     (e.g SSE, silhouette).
+    3. Transactional Clustering: By using categorical features, or by turning a dataset with 
+    continuous variables into a dataset with categorical variables (e.g. by using binning), 
+    run at least one clustering algorithm presented in the transactional clustering 
+    lectures (e.g. K-Modes, ROCK). Discuss the results that you find analyzing the 
+    clusters and reporting external validation measures (e.g SSE, silhouette).
     
 # Module 5 - Explainability (optional)
     1. Try to use one or more explanation methods (e.g., LIME, LORE, SHAP, etc.) to illustrate 
