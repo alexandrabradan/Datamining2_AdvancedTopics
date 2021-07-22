@@ -1,5 +1,6 @@
 # Datamining2_AdvancedTopics
 Project for the second module of the Data Mining course held at University of Pisa.
+The dataset used can be fout at https://github.com/mdeff/fma
 
 # Project Guidelines
 # Module 1 - Introduction, Imbalanced Learning and Anomaly Detection
